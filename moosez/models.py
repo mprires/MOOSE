@@ -62,7 +62,7 @@ MODEL_METADATA = {
         KEY_LIMIT_FOV: None
     },
     "clin_ct_PUMA": {
-        KEY_URL: "https://github.com/ENHANCE-PET/MOOSE/releases/download/moosez-v.3.1.3/clin_ct_PUMA_1k_23052024.zip",
+        KEY_URL: "https://github.com/mprires/MOOSE/releases/download/moosez-v.3.1.4/clin_ct_PUMA_ras_09122025.zip",
         KEY_FOLDER_NAME: "Dataset002_PUMA",
         KEY_LIMIT_FOV: None
     },
