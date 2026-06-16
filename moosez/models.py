@@ -110,7 +110,11 @@ MODEL_METADATA = {
     "clin_mr_FVM": {
         KEY_URL: "https://github.com/ENHANCE-PET/MOOSE/releases/download/moosez-v.3.2.0/clin_mr_FVM_30032026.zip",
         KEY_FOLDER_NAME: "Dataset501_FVM",
-    } 
+    },
+    "clin_ct_colon": {
+        KEY_URL: "https://enhance-pet.s3.eu-central-1.amazonaws.com/moose/clin_ct_colon_08062026.zip",
+        KEY_FOLDER_NAME: "Dataset372_Colon"
+    },
 }
 
 AVAILABLE_MODELS = MODEL_METADATA.keys()
